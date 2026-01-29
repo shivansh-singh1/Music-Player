@@ -93,7 +93,7 @@ const TrendingSongs = [
     {
         title: "Jhol - Acoustic",
         artist: "Maanu, Annural Khalid",
-        thumbnail: "./requiredMedia/TrendingSongs-Thumbnails/Jhol.jpeg"
+        thumbnail: "./requiredMedia/TrendingSongs-Thumbnails/jhol.jpeg"
     },
     {
         title: "Without Prejudice",
@@ -497,5 +497,6 @@ searchInput.addEventListener("input", () => {
         }
     }, 500);
 });
+
 
 
