@@ -1,4 +1,4 @@
-# Music Player
+# Beatify
 
 A Spotify-inspired web-based music player built using HTML, CSS, and vanilla JavaScript. This project focuses on creating a clean UI, dynamic song rendering, and real-time audio playback using an external music API.
 
